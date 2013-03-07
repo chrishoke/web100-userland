@@ -1,9 +1,9 @@
 AC_PREREQ(2.52)
-AC_INIT(web100_userland, 1.7)
+AC_INIT(web100_userland, 1.8)
 
 dnl libweb100 libtool versioning
 LT_CURRENT=3
-LT_REVISION=2
+LT_REVISION=3
 LT_AGE=3
 
 AC_SUBST(LT_CURRENT)

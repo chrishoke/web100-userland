@@ -1,4 +1,4 @@
-AC_DEFUN(AC_TYPE_SOCKLEN_T,
+AC_DEFUN([AC_TYPE_SOCKLEN_T],
   [
     AC_CACHE_CHECK(
       [for socklen_t],
